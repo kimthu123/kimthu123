@@ -2,89 +2,112 @@
   <img src="https://raw.githubusercontent.com/kimthu123/kimthu123/main/banner.png" width="90%" />
 </p>
 
-<h1 align="center"> Hi, you can call me Jace 👋</h1>
+<h1 align="center">Hi, I'm Thu 🌼</h1>
 
 <p align="center">
-  Software Developer · AI-Assisted Engineering · Frontend & Automation Enthusiast
+  <b>Software Developer · AI-Assisted Engineering · Frontend & Automation Enthusiast</b>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm Jace — a curious and adaptable Software Development student who enjoys turning ideas into working products.  
-I love exploring how **AI tools, JavaScript, automation scripts, and modern developer tooling** can make development faster and more enjoyable.
+Hi! I'm Thu — a curious developer who learns by trying, breaking, fixing, and laughing through it all 😆  
+I love building projects that feel simple, helpful, and a little bit magical ✨.
 
-I learn best by **building**, **breaking things**, and **trying again**.  
-My projects reflect how I like to work: simple ideas, clean execution, real impact.
+I’ve never been the “lucky” type, so I rely on **consistency, grit, and a stubborn work ethic**.  
+When things get tough, I switch into what my friends call **“trâu cày mode”** 🐮💨 —  
+slow, steady, determined, and always improving.
+
+### A few quick things about me:
+- ✨ I get excited over new tools like tmux, devcontainers, React hooks, or cool AI prompts.
+- 🧠 I love exploring how AI can speed up learning and coding.
+- 🌱 I grow by building small things every week.
+- 🐢 I'm persistent — even when progress is slow, I keep moving.
+- ☕ I function on coffee, curiosity, and good playlists.
+- 🧩 I solve problems the same way I play puzzles: piece by piece, calmly.
 
 ---
 
-## 🚀 What I'm Focused On
+## 💫 My Personality in Emojis
 
-- 🧠 AI-assisted coding (OpenAI, agents, workflow acceleration)
-- 💻 Frontend development with React + modern JavaScript
-- ⚙️ Automation & scripting to speed up boring tasks
-- 🐧 Terminal workflows (tmux, Linux, WSL2)
-- 📦 Clean dev environments using devcontainers & GitHub workflows
+💭 Curious  
+🧠 Thoughtful  
+💻 Builder  
+🐮 Hardworking  
+🌱 Growing  
+☁️ Soft-hearted  
+⚡ Slightly chaotic (in a good way)  
+🛠 Loves tools  
+🎨 Loves aesthetics  
+🎧 Works best with music  
+🤍 Always trying her best  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I'm Learning & Loving Right Now
 
-<p align="left">
+- 🧠 AI-assisted development (OpenAI, coding agents)
+- 💻 Modern frontend (React + JavaScript)
+- 🐧 Terminal life (tmux, Linux, WSL2)
+- ⚙️ Automation scripts
+- 📦 Clean dev environments with devcontainers
+- 🎨 UI/UX flow and creating smooth user experiences
+
+---
+
+## 🛠 Tech Stack (Cute Edition)
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,cpp,git,linux,vscode,docker" />
 </p>
+
+✨ Also use: tmux · WSL2 · REST APIs · JSON · Bash scripting
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 AI & Climate Change Research Tool
-**Python · OpenAI API · Automation · Multi-service repo**  
-An AI-powered pipeline that expands topics, scrapes academic datasets, and automatically filters & tags research papers.  
-⚡ Reduced manual filtering by ~60%.  
-🔗 Repo: *coming soon*
+### 🌿 AI & Climate Change Research Tool  
+**Python · OpenAI API · Automation**  
+- Built an AI-powered scraper for research papers  
+- Automated keyword expansion + filtering  
+- Reduced manual filtering time by ~60%  
+- A small project but a big learning milestone ✨  
 
 ---
 
-### 🔹 Housing Market Dynamics – Full-Stack Web App
-**React · FastAPI · Chart.js · Machine Learning**  
-A property analytics platform with interactive charts and integrated ML predictions.  
-🔗 Repo: *coming soon*
+### 🏡 Housing Market Dynamics – Full-Stack Web App  
+**React · FastAPI · Chart.js**  
+- Interactive charts + predictions  
+- Clean UI and responsive components  
+- Debugged with WSL2 + terminal tools (so fun… and painful 😅)
 
 ---
 
-### 🔹 Data Structures & Algorithms (C++)
-A collection of vector, linked list, matrix, and priority queue implementations using OOP and templates.  
-🔗 Repo: *coming soon*
+### 📚 C++ Data Structures & Algorithms  
+- Templates, vectors, linked lists, matrices  
+- A playground for learning fundamentals  
+- Sometimes painful. Always worth it.
 
 ---
 
-### 🔹 Library Management System (C++)
-A modular console application using OOP principles, with user/admin roles and clean architecture.  
-🔗 Repo: *coming soon*
+## ✨ What I Believe
+
+🌱 “Small progress every day becomes big progress over time.”  
+💡 “Curiosity is my superpower.”  
+🧩 “Everything is solvable if broken into smaller pieces.”  
+🐮 “Hard work beats lucky breaks.”  
 
 ---
 
-## ✨ What I Believe In
-
-- Learning fast > knowing everything  
-- Build something small every week  
-- Clean code = clear thinking  
-- Technology becomes powerful when it feels simple  
-
----
-
-## 📫 Connect With Me
+## 💌 Want to Connect?
 
 📍 Melbourne, Australia  
 📧 Email: **trankimthu.160503@gmail.com**  
 🐙 GitHub: **github.com/kimthu123**  
-🔗 LinkedIn: *(add your link when ready)*
-
----
+🔗 LinkedIn: *(coming soon!)*
 
 <p align="center">
-  <i>Thanks for visiting! Feel free to explore my work — new things are added often.</i>
+  <i>Thanks for stopping by — hope you find something you like here 💛</i>
 </p>
