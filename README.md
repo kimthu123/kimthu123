@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kimthu123/kimthu123/main/banner.png" width="90%">
+</p>
+
 ## Hi there 👋
 
 <!--
