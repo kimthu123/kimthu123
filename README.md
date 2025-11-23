@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/kimthu123/kimthu123/main/banner.png" width="90%" />
 </p>
 
-<h1 align="center">Hi, you can call me Jace 🌼</h1>
+<h1 align="center">Hi, you can call me Jace </h1>
 
 <p align="center">
   <b>Software Development Student · AI-Assisted Engineering · Frontend & Automation Enthusiast</b>
