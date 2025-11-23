@@ -47,9 +47,9 @@ I’ve never been the “lucky” type, so I rely on **consistency, grit, and a 
 
 - 🧠 AI-assisted development (OpenAI tools, coding agents)
 - 💻 Modern frontend (React + JavaScript)
-- 🐧 Terminal workflows (tmux, Linux, WSL2)
+- 🐧 Terminal workflows 
 - ⚙️ Automation & scripting
-- 📦 Clean dev environments (devcontainers)
+- 📦 Clean dev environments 
 - 🎨 UI/UX thinking and creating smooth user experiences
 
 ---
