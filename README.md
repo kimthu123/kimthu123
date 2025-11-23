@@ -78,7 +78,7 @@ I’ve never been the “lucky” type, so I rely on **consistency, grit, and a 
 📍 Melbourne, Australia  
 📧 Email: **trankimthu.160503@gmail.com**  
 🐙 GitHub: **github.com/kimthu123**  
-🔗 LinkedIn: *(coming soon!)*
+🔗 LinkedIn: *https://www.linkedin.com/in/kim-thu-tran-769211279/*
 
 <p align="center">
   <i>Thanks for stopping by — hope you find something you like here 💛</i>
