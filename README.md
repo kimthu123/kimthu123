@@ -60,7 +60,7 @@ I’ve never been the “lucky” type, so I rely on **consistency, grit, and a 
   <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,cpp,git,linux,vscode,docker" />
 </p>
 
-✨ Also familiar with: tmux · WSL2 · REST APIs · JSON · Bash scripting
+✨ Also familiar with: WSL2 · REST APIs · JSON · Bash scripting
 
 ---
 
