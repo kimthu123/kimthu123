@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/kimthu123/kimthu123/main/banner.png" width="90%">
 </p>
+<h1 align="center">Hi guys, I'm Thu 👋</h1>
+
+<p align="center">
+  <b>Software Developer · AI-Assisted Engineering · Frontend Enthusiast</b>
+</p>
 
 ## Hi there 👋
 
