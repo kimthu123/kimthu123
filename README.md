@@ -2,26 +2,27 @@
   <img src="https://raw.githubusercontent.com/kimthu123/kimthu123/main/banner.png" width="90%" />
 </p>
 
-<h1 align="center">Hi, you can call me Jace </h1>
+<h1 align="center">Hi, you can call me Jace 🌼</h1>
 
 <p align="center">
-  <b>Software Developer · AI-Assisted Engineering · Frontend & Automation Enthusiast</b>
+  <b>Software Development Student · AI-Assisted Engineering · Frontend & Automation Enthusiast</b>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-Hi! I'm Jace — a curious developer who learns by trying, breaking, fixing, and laughing through it all 😆  
-I love building projects that feel simple, helpful, and a little bit magical ✨.
+Hi! I'm Jace — a curious and determined software student who learns by trying, breaking, fixing, and laughing through the process 😆  
+I love building things that feel simple, helpful, and a little bit magical ✨.
 
-I’ve never been the “lucky” type, so I rely on **consistency, grit, and a stubborn work ethic**.  
+Right now, I'm a **Software Development student actively looking for my first job or internship** to grow, contribute, and learn from real industry environments.  
+I’ve never been the “lucky” type, so I rely on **consistency, grit, and a stubborn work ethic** to get where I want to be.
 
 ### A few quick things about me:
 - ✨ I get excited over new tools like tmux, devcontainers, React hooks, or cool AI prompts.
 - 🧠 I love exploring how AI can speed up learning and coding.
 - 🌱 I grow by building small things every week.
-- 🐢 I'm persistent — even when progress is slow, I keep moving.
+- 🐢 I'm persistent — even when progress is slow, I keep showing up.
 - ☕ I function on coffee, curiosity, and good playlists.
 - 🧩 I solve problems the same way I play puzzles: piece by piece, calmly.
 
@@ -36,21 +37,21 @@ I’ve never been the “lucky” type, so I rely on **consistency, grit, and a 
 🌱 Growing  
 ☁️ Soft-hearted  
 ⚡ Slightly chaotic (in a good way)  
-🛠 Loves tools  
-🎨 Loves aesthetics  
-🎧 Works best with music  
-🤍 Always trying her best  
+🛠 Tool-lover  
+🎨 Aesthetic-driven  
+🎧 Focuses better with music  
+🤍 Always doing her best  
 
 ---
 
 ## 🚀 What I'm Learning & Loving Right Now
 
-- 🧠 AI-assisted development (OpenAI, coding agents)
+- 🧠 AI-assisted development (OpenAI tools, coding agents)
 - 💻 Modern frontend (React + JavaScript)
-- 🐧 Terminal life (tmux, Linux, WSL2)
-- ⚙️ Automation scripts
-- 📦 Clean dev environments with devcontainers
-- 🎨 UI/UX flow and creating smooth user experiences
+- 🐧 Terminal workflows (tmux, Linux, WSL2)
+- ⚙️ Automation & scripting
+- 📦 Clean dev environments (devcontainers)
+- 🎨 UI/UX thinking and creating smooth user experiences
 
 ---
 
@@ -60,7 +61,7 @@ I’ve never been the “lucky” type, so I rely on **consistency, grit, and a 
   <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,cpp,git,linux,vscode,docker" />
 </p>
 
-✨ Also use: tmux · WSL2 · REST APIs · JSON · Bash scripting
+✨ Also familiar with: tmux · WSL2 · REST APIs · JSON · Bash scripting
 
 ---
 
@@ -78,8 +79,8 @@ I’ve never been the “lucky” type, so I rely on **consistency, grit, and a 
 📍 Melbourne, Australia  
 📧 Email: **trankimthu.160503@gmail.com**  
 🐙 GitHub: **github.com/kimthu123**  
-🔗 LinkedIn: *https://www.linkedin.com/in/kim-thu-tran-769211279/*
+🔗 LinkedIn: **https://www.linkedin.com/in/kim-thu-tran-769211279/**
 
 <p align="center">
-  <i>Thanks for stopping by — hope you find something you like here 💛</i>
+  <i>Thanks for visiting — I hope you find something you love here 💛</i>
 </p>
