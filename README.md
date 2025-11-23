@@ -39,7 +39,7 @@ I’ve never been the “lucky” type, so I rely on **consistency, grit, and a 
 🛠 Tool-lover  
 🎨 Aesthetic-driven  
 🎧 Focuses better with music  
-🤍 Always doing her best  
+
 
 ---
 
