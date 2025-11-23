@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/kimthu123/kimthu123/main/banner.png" width="90%" />
 </p>
 
-<h1 align="center">Hi, I'm Thu 👋</h1>
+<h1 align="center"> Hi, you can call me Jace 👋</h1>
 
 <p align="center">
   Software Developer · AI-Assisted Engineering · Frontend & Automation Enthusiast
@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-I'm Thu — a curious and adaptable Software Development student who enjoys turning ideas into working products.  
+I'm Jace — a curious and adaptable Software Development student who enjoys turning ideas into working products.  
 I love exploring how **AI tools, JavaScript, automation scripts, and modern developer tooling** can make development faster and more enjoyable.
 
 I learn best by **building**, **breaking things**, and **trying again**.  
