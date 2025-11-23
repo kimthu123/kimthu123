@@ -54,7 +54,7 @@ I’ve never been the “lucky” type, so I rely on **consistency, grit, and a 
 
 ---
 
-## 🛠 Tech Stack (Cute Edition)
+## 🛠 Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,cpp,git,linux,vscode,docker" />
