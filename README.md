@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/kimthu123/kimthu123/main/banner.png" width="90%" />
 </p>
 
-<h1 align="center">Hi, I'm Thu 🌼</h1>
+<h1 align="center">Hi, you can call me Jace </h1>
 
 <p align="center">
   <b>Software Developer · AI-Assisted Engineering · Frontend & Automation Enthusiast</b>
@@ -12,12 +12,10 @@
 
 ## 🌟 About Me
 
-Hi! I'm Thu — a curious developer who learns by trying, breaking, fixing, and laughing through it all 😆  
+Hi! I'm Jace — a curious developer who learns by trying, breaking, fixing, and laughing through it all 😆  
 I love building projects that feel simple, helpful, and a little bit magical ✨.
 
 I’ve never been the “lucky” type, so I rely on **consistency, grit, and a stubborn work ethic**.  
-When things get tough, I switch into what my friends call **“trâu cày mode”** 🐮💨 —  
-slow, steady, determined, and always improving.
 
 ### A few quick things about me:
 - ✨ I get excited over new tools like tmux, devcontainers, React hooks, or cool AI prompts.
@@ -63,32 +61,6 @@ slow, steady, determined, and always improving.
 </p>
 
 ✨ Also use: tmux · WSL2 · REST APIs · JSON · Bash scripting
-
----
-
-## 📌 Featured Projects
-
-### 🌿 AI & Climate Change Research Tool  
-**Python · OpenAI API · Automation**  
-- Built an AI-powered scraper for research papers  
-- Automated keyword expansion + filtering  
-- Reduced manual filtering time by ~60%  
-- A small project but a big learning milestone ✨  
-
----
-
-### 🏡 Housing Market Dynamics – Full-Stack Web App  
-**React · FastAPI · Chart.js**  
-- Interactive charts + predictions  
-- Clean UI and responsive components  
-- Debugged with WSL2 + terminal tools (so fun… and painful 😅)
-
----
-
-### 📚 C++ Data Structures & Algorithms  
-- Templates, vectors, linked lists, matrices  
-- A playground for learning fundamentals  
-- Sometimes painful. Always worth it.
 
 ---
 
