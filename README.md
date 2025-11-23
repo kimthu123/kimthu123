@@ -19,7 +19,6 @@ Right now, I'm a **Software Development student actively looking for my first jo
 I’ve never been the “lucky” type, so I rely on **consistency, grit, and a stubborn work ethic** to get where I want to be.
 
 ### A few quick things about me:
-- ✨ I get excited over new tools like tmux, devcontainers, React hooks, or cool AI prompts.
 - 🧠 I love exploring how AI can speed up learning and coding.
 - 🌱 I grow by building small things every week.
 - 🐢 I'm persistent — even when progress is slow, I keep showing up.
